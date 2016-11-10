@@ -1,0 +1,15 @@
+{
+  "name": "heliocentric-hlib",
+  "version": "0.1.0",
+  "author": "heliocentric",
+  "summary": "A library of useful functions",
+  "license": "Apache-2.0",
+  "source": "https://github.com/heliocentric/puppet-hlib",
+  "project_page": "https://github.com/heliocentric/puppet-hlib",
+  "issues_url": "https://github.com/heliocentric/puppet-hlib/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
